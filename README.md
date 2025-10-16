@@ -7,4 +7,4 @@ If you want a general restart on any USB change add "USB" as a filter. The filte
 
 It's a bit rough and ready, but works for me. It'd be nice if SPAD.next and Commander could render this obsolete.
 
-First 80% coded with Gemini, the rest is are 100% pure, old-fashioned, homegrown human. 
+First 80% coded with Gemini, the rest is is 100% pure, old-fashioned, homegrown human. 
